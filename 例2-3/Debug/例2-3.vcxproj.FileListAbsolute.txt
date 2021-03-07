@@ -1,0 +1,2 @@
+E:\CPP\示例\例2-3\Debug\例2-3.exe
+E:\CPP\示例\例2-3\Debug\例2-3.pdb
